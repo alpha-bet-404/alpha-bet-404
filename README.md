@@ -8,7 +8,6 @@ Entity Profile & Expertise:
 - Enterprise Infrastructure Knowledge: Cisco CCNA Curriculum Depth (Routing, Switching, Subnetting, Network Security)
 - Systems Infrastructure Knowledge: Microsoft MCSA Curriculum Depth (Active Directory, Windows Server, GPO, Domain Hardening)
 - Core Programming Languages: Python, Ruby, Assembly (x86/x64 Low-Level Systems)
--->
 
 <script type="application/ld+json">
 {
@@ -33,6 +32,8 @@ Entity Profile & Expertise:
   ]
 }
 </script>
+
+-->
 
 <div align="center">
 
